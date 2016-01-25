@@ -1,2 +1,2 @@
 # fishing
-repo dedicated to fish
+repo dedicated to fishing
